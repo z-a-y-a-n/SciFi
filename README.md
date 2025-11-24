@@ -55,7 +55,7 @@ Visualize functions with:
 #### Using uv (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/z-a-y-a-n/SciFi.git
 cd calculator
 
 # Install dependencies with uv
@@ -65,7 +65,7 @@ uv sync
 #### Using pip
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/z-a-y-a-n/SciFi.git
 cd calculator
 
 # Create a virtual environment (recommended)
